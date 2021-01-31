@@ -2,7 +2,7 @@
     "manifest_version" : 2,
     "name" : "나무쿤",
     "description": "나무위키 문서의 내용을 읽기 좋게 편집합니다.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author":"906bc",
     "icons": {
         "16": "icon16.png",
@@ -26,7 +26,6 @@
         }
     ],
     "permissions": [
-        "storage",
-        "*://namu.wiki/*"
+        "storage"
     ]
 }
